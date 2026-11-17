@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "APIShared": {
+      "commandName": "MsixPackage"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
